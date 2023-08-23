@@ -1,2 +1,2 @@
 # Colie_RPC
-After learning Netty, I decided to write a lightweight RPC framework based on Netty, Zookeeper, and Spring. I have gained a lot. However, I am a ignorant person, so it is inevitable that there are some omissions. If you have any criticisms and suggestions, please send them to moxiongsen2022@gmail.com
+本人学习Netty后决定自己写1个基于Netty、Zookeeper、Spring的轻量级RPC框架，收获颇丰，不过本人才疏学浅，难免有所疏漏，若有批评和建议请发到邮箱moxiongsen2022@gmail.com
